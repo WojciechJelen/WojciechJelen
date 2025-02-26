@@ -6,7 +6,7 @@ Full-stack Developer
 
 * 🌍  I'm based in Wroclaw
 * ✉️  You can contact me at [wjelen30@gmail.com](mailto:wjelen30@gmail.com)
-* 🧠  I'm learning Rust 🦀
+* 🧠  I'm learning Python 
 
 ### Skills
 
